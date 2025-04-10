@@ -42,6 +42,7 @@ pnpm run dev
 
 ```
 ## 📁 Estructura del Proyecto
+```bash
 aquatech/
 ├── components/       # Componentes reutilizables
 ├── pages/            # Rutas principales
@@ -49,6 +50,7 @@ aquatech/
 ├── styles/           # Estilos globales
 ├── tailwind.config.js
 └── next.config.js
+```
 
 ## 🤝 Contribuciones
 ¿Te interesa aportar a AQUATECH? ¡Eres bienvenido!

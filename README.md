@@ -37,3 +37,22 @@ pnpm install
 
 # Inicia el servidor de desarrollo
 pnpm run dev
+
+# Visita tu navegador en: http://localhost:3000
+
+```
+## 📁 Estructura del Proyecto
+aquatech/
+├── components/       # Componentes reutilizables
+├── pages/            # Rutas principales
+├── public/           # Archivos estáticos
+├── styles/           # Estilos globales
+├── tailwind.config.js
+└── next.config.js
+
+## 🤝 Contribuciones
+¿Te interesa aportar a AQUATECH? ¡Eres bienvenido!
+Puedes abrir issues, enviar pull requests o compartir el proyecto con quien creas que puede beneficiarse.
+
+## 📜 Licencia
+Este proyecto está bajo la licencia MIT.
